@@ -7,3 +7,4 @@ xhofe/alist:latest
 nightscout/cgm-remote-monitor:latest
 liske/cgm-remote-monitor:14.0.6
 ghcr.io/gabe565/nightscout
+pyrmon/nightscout:latest
