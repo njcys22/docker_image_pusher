@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nightscout/cgm-remote-monitor:latest
 liske/cgm-remote-monitor:14.0.6
-njcys22/cgm-remote-monitor:latest
+liske/cgm-remote-monitor:15.0.2
