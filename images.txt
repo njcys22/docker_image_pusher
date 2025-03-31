@@ -11,3 +11,4 @@ pyrmon/nightscout:latest
 kallehagstrom/knightscout:latest
 qq765472804/nightscout:15.0.2.11
 qq765472804/my-ui-aiyundiy:latest
+qq765472804/my-mini-ns:latest
