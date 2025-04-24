@@ -12,3 +12,4 @@ kallehagstrom/knightscout:latest
 qq765472804/nightscout:15.0.2.11
 qq765472804/my-ui-aiyundiy:latest
 bjornoleh/nightscout:latest_test
+timoschlueter/nightscout-librelink-up
