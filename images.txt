@@ -5,4 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 kallehagstrom/knightscout-ai:latest
-docker pull kallehagstrom/knightscout-ai-python-backend:latest
+kallehagstrom/knightscout-ai-python-backend:latest
+librestore24/nightscout
