@@ -6,4 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 kallehagstrom/knightscout-ai:latest
 kallehagstrom/knightscout-ai-python-backend:latest
-librestore24/nightscout
