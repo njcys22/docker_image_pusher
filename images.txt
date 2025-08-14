@@ -4,12 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-nightscout/cgm-remote-monitor:latest
-liske/cgm-remote-monitor:14.0.6
-ghcr.io/gabe565/nightscout
-pyrmon/nightscout:latest
-kallehagstrom/knightscout:latest
-qq765472804/nightscout:15.0.2.11
-qq765472804/my-ui-aiyundiy:latest
-bjornoleh/nightscout:latest_test
-timoschlueter/nightscout-librelink-up
+librestore24/nightscout
